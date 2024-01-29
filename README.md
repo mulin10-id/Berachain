@@ -1,4 +1,4 @@
-BeraChain Artio Testnet Is Now Live
+BeraChain Artio Testnet Is Now Live 11/1/2024
 
 Wallet : Metamask
 Network : Berachain Artio
@@ -17,7 +17,7 @@ Network : Berachain Artio
 
 🕊Twitter : https://twitter.com/berachain
 
-How to deploy a smart contract on testnet, you'll need a small amount of testnet $BERA.
+How to deploy a smart contract on testnet, you'll need a small amount of testnet $BERA. 18/1/2024
 
 https://thirdweb.com/dashboard/contracts/deploy
 
@@ -33,12 +33,12 @@ https://thirdweb.com/dashboard/contracts/deploy
 Mint Token > Approve
 ➖ Done
 
-Algebra Integral V4 is now deployed on 
+Algebra Integral V4 is now deployed on 25/1/2024
 berachain Artio Public testnet! 🐻
 
 Swap and Add LP : https://berachain.algebra.finance/pools (Use Berachain Testnet Network)
 
-UPDATE Berachain Simple Deploy With Merkly
+UPDATE Berachain Simple Deploy With Merkly 28/1/2024
 
 ➡️ Go to : https://minter.merkly.com/deploy/empty
 ➖ Connect Bera Testnet Network
